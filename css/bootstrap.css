@@ -1412,8 +1412,8 @@ a.bg-danger:hover,
 a.bg-danger:focus {
   background-color: #e4b9b9;
 }
-.header {
-  height: 100% !important;
+header {
+  height: 100%;
 }
 .page-header {
   padding-bottom: 9px;
