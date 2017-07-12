@@ -1412,14 +1412,16 @@ a.bg-danger:hover,
 a.bg-danger:focus {
   background-color: #e4b9b9;
 }
+.header {
+  height: 100% !important;
+}
 .page-header {
   padding-bottom: 9px;
   margin: 40px 0 20px;
   border-bottom: 1px solid #eee;
 }
 .colum-header {
-  padding-left: 90px !important;
-  text-align: center;
+  padding-left: 30px !important;
 }
 ul,
 ol {
